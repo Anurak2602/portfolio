@@ -1,0 +1,14 @@
+[
+  {
+    "title": "C++",
+    "imageSrc": "skills/c.png"
+  },
+  {
+    "title": "LabVIEW",
+    "imageSrc": "skills/LabVIEW.png"
+  },
+  {
+    "title": "MATLAB",
+    "imageSrc": "skills/matlab.png"
+  }
+]

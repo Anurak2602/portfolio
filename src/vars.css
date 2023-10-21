@@ -1,0 +1,11 @@
+:root {
+  /* สี */
+  --color-text: #fff; /* สีข้อความ */
+  --color-primary: #8b5fb0;; /* สีหลัก */
+  --color-secondary: #543582; /* สีรอง */
+  --color-dark: #2a1943;  /* สีเข้ม */
+  --color-bg: #2c044d;  /* สีพื้นหลัง */
+
+  /* ฟอนต์ */
+  --font-roboto: "Roboto";  /* ฟอนต์หลัก */
+}

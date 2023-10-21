@@ -1,0 +1,8 @@
+[
+  {
+    "title": "ระบบคัดแยกและจัดเก็บสินค้าด้วยแขนกล",
+    "imageSrc": "projects/project.png",
+    "description": "เป็นระบบจำลองการคัดแยกและจัดเก็บสินค้าด้วยแขนกล DOBOT และ PLC เชื่อมต่อผ่าน OPC กับ LabVIEW และ MySQL ใช้ในการเก็บข้อมูล",
+    "skills": ["PLC", "MySQL", "LabVIEW", "DOBOT"]
+  }
+]
