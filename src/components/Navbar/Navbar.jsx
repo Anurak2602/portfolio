@@ -8,7 +8,7 @@ export const Navbar = () => { // สร้างคอมโพเนนต์ N
 
   return (  // คืนค่า
     <nav className={styles.navbar}> {/* สร้างส่วนของ Navbar โดยกำหนด className */}
-      <a className={styles.title} href="/"> {/* สร้างส่วนของหัวข้อ Navbar โดยกำหนด className และ href */}
+      <a className={styles.title} href="#portfolio"> {/* สร้างส่วนของหัวข้อ Navbar โดยกำหนด className และ href */}
         Portfolio
       </a>  
       <div className={styles.menu}> {/* สร้างส่วนของเมนู Navbar โดยกำหนด className */}
